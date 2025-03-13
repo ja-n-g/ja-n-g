@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://images.hdqwalls.com/download/the-divine-code-connection-y6-3440x1440.jpg"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
